@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "cilivea-value": "https://github.com/Cilivea/cilivea-value",
+    "mqtt": "^5.14.1",
+    "mqtt-pattern": "^2.1.0"
   }
 }
