@@ -1,5 +1,5 @@
 {
-  "name": "cil-db",
+  "name": "@cilivea/cil-db",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -9,7 +9,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "cilivea-value": "https://github.com/Cilivea/cilivea-value",
+    "@cilivea/cilivea-value": "workspace:*",
     "mqtt": "^5.14.1",
     "mqtt-pattern": "^2.1.0"
   }
